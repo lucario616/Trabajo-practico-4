@@ -23,4 +23,5 @@ Este proyecto es una aplicación para gestionar vuelos de una aerolínea. Permit
 - Francisco Blum
 - Joaquin Mora
 - Lucas Santucho
+- Christian Diaz
 - Benjamin Alarcon
